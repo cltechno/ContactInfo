@@ -1,0 +1,1 @@
+CREATE TABLE pages1(house varchar(66),unit varchar(66),postal varchar(66),street varchar(66),building varchar(66),manner varchar(66),lot varchar(66),purchase varchar(66),property varchar(66),date1 varchar(66),date2 varchar(66),types varchar(66))
